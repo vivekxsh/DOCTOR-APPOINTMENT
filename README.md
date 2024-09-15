@@ -21,7 +21,7 @@ You may also see any lint errors in the console.
 # CareSync
 
 ## Login Page
-![Alt text]((https://github.com/vivekxsh/DOCTOR-APPOINTMENT/blob/main/Screenshots/Login-page.png?raw=true))
+![Alt text](https://github.com/vivekxsh/DOCTOR-APPOINTMENT/blob/main/Screenshots/Login-page.png?raw=true)
 
 ## Register Page
 ![Alt text](https://github.com/vivekxsh/DOCTOR-APPOINTMENT/blob/main/Screenshots/Register-form.png?raw=true)
