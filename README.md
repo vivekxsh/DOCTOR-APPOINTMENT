@@ -34,7 +34,7 @@ You may also see any lint errors in the console.
 ![Alt text](https://github.com/vivekxsh/DOCTOR-APPOINTMENT/blob/main/Screenshots/mobile_view.jpg?raw=true)
 
 ## Home Page
-![Alt text](https://github.com/vivekxsh/DOCTOR-APPOINTMENT/blob/main/Screenshots/Home-page.png?raw=true)
+![Alt text](https://github.com/vivekxsh/DOCTOR-APPOINTMENT/blob/main/Screenshots/Home%20page.png?raw=true)
 
 
 ### `npm run build`
