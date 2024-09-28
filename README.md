@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### This project is hosted on Render
 https://doctor-appointment-ncqn.onrender.com/login
 
+### Make a `.env` file
+PORT=<port-number>
+NODE_MODE=development
+MONGO_URL=<your-mongodb-url>
+JWT_SECRET=<secret-key-for-jwt>
+
 ## Available Scripts
 
 In the project directory, you can run:
