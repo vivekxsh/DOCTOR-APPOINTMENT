@@ -6,24 +6,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### This project is hosted on Render
 https://doctor-appointment-ncqn.onrender.com/login
 
-### *Make a `.env` file
-# Environment Variables
-
-Below are the required environment variables for the project:
-
-- `PORT`: The port number for the application (e.g., `<port-number>`).
-- `NODE_MODE`: The mode in which the Node.js application runs (e.g., `development`).
-- `MONGO_URL`: The URL for your MongoDB instance (e.g., `<your-mongodb-url>`).
-- `JWT_SECRET`: The secret key used for JWT (e.g., `<secret-key-for-jwt>`).
-
-## Example
-
-```plaintext
-PORT=3000
-NODE_MODE=development
-MONGO_URL=mongodb://localhost:27017/mydb
-JWT_SECRET=mysecretkey
-
 
 ## Available Scripts
 
@@ -71,3 +53,22 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+### *Make a `.env` file
+# Environment Variables
+
+Below are the required environment variables for the project:
+
+- `PORT`: The port number for the application (e.g., `<port-number>`).
+- `NODE_MODE`: The mode in which the Node.js application runs (e.g., `development`).
+- `MONGO_URL`: The URL for your MongoDB instance (e.g., `<your-mongodb-url>`).
+- `JWT_SECRET`: The secret key used for JWT (e.g., `<secret-key-for-jwt>`).
+
+## Example
+
+```plaintext
+PORT=3000
+NODE_MODE=development
+MONGO_URL=mongodb://localhost:27017/mydb
+JWT_SECRET=mysecretkey
