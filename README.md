@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+###
+A Doctor's Appointment Booking System allows individuals to easily book appointments with healthcare professionals from anywhere. Through this system, users can view available slots for doctors, choose a convenient time, and confirm their appointment in just a few clicks it is an online platform that allows patients to easily schedule appointments at specific clinics based on their health needs. Whether it's a health issue, an injury, mental health concerns, or any other medical condition, these systems streamline the process of booking appointments. a Doctor's Appointment a System revolutionizes the healthcare experience by offering seamless, user- friendly appointment scheduling.
 
 ## Visit link
 ### This project is hosted on Render
